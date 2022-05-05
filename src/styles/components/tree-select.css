@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+.tree-select {
+    margin: 50px;
+    display: flex;
+    width: 50%;
+}
+
+.result {
+    margin-left: 50px;
+}
